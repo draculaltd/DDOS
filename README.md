@@ -49,15 +49,6 @@
   * 👑 HELP | Show Usge Script
 
 * Layer4 DDoS Script
-#### Issues ? 
- * Telegram : @MH_ProDev_IR
- * Discord : MH_ProDev#2681
- * [GitHub][github]
-#### Like the project? Leave a ⭐ star on the repository!
-
-## Downloads
-
-You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/releases)
 
 ### Getting Started
 
@@ -70,18 +61,6 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 * icmplib
 * scapy
 ---
-
-**Video's**
-
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Coming soon..
-
-**toturial**
-
-* Aprat : https://aparat.com/v/XPn5Z
-* YouTube : https://youtu.be/mZilAOkLKK8
----
-
 **Clone and Install Script**
 
 ```console
